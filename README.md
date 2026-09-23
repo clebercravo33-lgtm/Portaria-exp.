@@ -1,12 +1,19 @@
 # Portaria — PWA
 
-Esta pasta contém uma versão PWA pronta para publicação no GitHub Pages.
+Pacote pronto para publicar no GitHub Pages.
+
+## Arquivos
+- `index.html` — aplicativo
+- `manifest.webmanifest` — configuração PWA
+- `service-worker.js` — cache/offline
+- `icons/` — ícones da aplicação
 
 ## Publicar no GitHub Pages
 1. Crie um repositório no GitHub.
-2. Envie **todos os arquivos e pastas** desta pasta para a raiz do repositório.
-3. Em **Settings → Pages**, selecione a branch principal e a pasta `/ (root)`.
-4. Abra o endereço do GitHub Pages em um navegador compatível.
-5. No celular, use **Adicionar à tela inicial / Instalar aplicativo**.
+2. Envie todos os arquivos mantendo as pastas.
+3. Em **Settings → Pages**, selecione **Deploy from a branch**.
+4. Escolha a branch `main` e a pasta `/ (root)`.
+5. Abra o endereço do GitHub Pages no celular.
+6. Use **Adicionar à tela inicial/Instalar aplicativo**.
 
-> O PWA precisa ser servido por HTTPS (GitHub Pages já fornece HTTPS).
+Observação: recursos externos usados pelo aplicativo continuam sujeitos à disponibilidade da internet e às políticas do navegador.
