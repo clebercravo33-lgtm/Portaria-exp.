@@ -1,0 +1,9 @@
+{
+  "name": "Portaria X5 - Completa com Voz",
+  "short_name": "Portaria X5",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#18181b",
+  "description": "Aplicativo web progressivo da Portaria X5."
+}
