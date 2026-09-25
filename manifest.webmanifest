@@ -1,0 +1,9 @@
+{
+  "name": "Portaria - Voz Cruzada",
+  "short_name": "Portaria",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf8",
+  "theme_color": "#111111",
+  "description": "Aplicativo da portaria com recursos de voz."
+}
